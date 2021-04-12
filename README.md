@@ -7,7 +7,7 @@ I'm mostly focused on the frontend side but I do have some skills on the backend
 <a href="https://twitter.com/bochap_">
 <img align="left" alt="Martin Pastore Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
 </a>
-<a href="https://linkedin.gonzalopozzo.com">
+<a href="https://www.linkedin.com/in/martin-pastore-00a251110/">
 <img align="left" alt="Martin Pastore LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
 
