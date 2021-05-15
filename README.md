@@ -16,7 +16,7 @@ I'm mostly focused on the frontend side but I do have some skills on the backend
 
 ## About me
 
-- 💼 Full Stack Engineer @ [Distillery](https://distillery.com)
+- 💼 Full Stack Engineer @ [ThriveMarket](https://thrivemarket.com)
 - 💻 Working with [React](https://reactjs.org) & [NextJS](https://nextjs.org/)
 - 📓 You can read my posts on my [dev.to](https://dev.to/martinpastore)
 
