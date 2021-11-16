@@ -16,7 +16,7 @@ I'm mostly focused on the frontend side but I do have some skills on the backend
 
 ## About me
 
-- 💼 Web Engineer @ [ThriveMarket](https://thrivemarket.com)
+- 💼 Web Engineer @ [Mundi](https://mundi.io)
 - 💻 Working with [React](https://reactjs.org) & [NextJS](https://nextjs.org/)
 - 📓 You can read my posts on my [dev.to](https://dev.to/martinpastore)
 
