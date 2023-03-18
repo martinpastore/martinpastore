@@ -1,6 +1,6 @@
 ## Hey there 👋 It's [bocha!](https://bocha.dev)
 I'm a big fan of JavaScript and React 💜.
-I'm mostly focused on the frontend side but I do have some skills on the backend side with NodeJS. 🤙
+I'm mostly focused on the backend side with NodeJS but I've worked several years as frontend developer wiht frameworks like ReactJS and Angular. 🤙
 
 <br/>
 
