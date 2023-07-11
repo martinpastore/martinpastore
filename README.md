@@ -16,7 +16,7 @@ I'm mostly focused on the backend side with NodeJS but I've worked several years
 
 ## About me
 
-- 💼 Backend Engineer @ [Mundi](https://mundi.io)
+- 💼 Backend Engineer @ [NaranjaX](https://naranjax.com)
 - 💻 Working with [NodeJS](https://nodejs.dev)
 - 📓 You can read my posts on my [dev.to](https://dev.to/martinpastore)
 
